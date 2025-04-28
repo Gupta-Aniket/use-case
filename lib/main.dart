@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:use_case/network_activity.dart';
+import 'package:use_case/network_activity.dart';
 
 
 void main() {
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      // home: const TestPage(),
+      home: const TestPage(),
     );
   }
 }
